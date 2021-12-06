@@ -1,4 +1,4 @@
-# My-Ecar
+# My-Ecart
 My Ecart is a full functionality e-commerce website designed using Bootstrap &amp; DJango. it has Tracking, Payment integration, Blog App etc. Bootstrap is used for frontend development and Django is used for backend development.
 
 # Note: 
